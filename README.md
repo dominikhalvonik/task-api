@@ -24,8 +24,8 @@ DB_USERNAME=root
 DB_PASSWORD=root
 
 Všetky ostatné časti sú pre beh aplikácie nepodstatné. Po vykonaní danej zmeny je potrebné spustiť nasledovný príkaz v koreňovom adresáry aplikácie:
-composer install
-php artisan db:seed
+1. composer install
+2. php artisan db:seed
 
 ## Testing
 
